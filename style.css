@@ -49,8 +49,14 @@ section{
 .triple-width img{
     width: 80%;
 }
-.single-width img{
-    width: 50%;
+
+.chat-area{
+    width:30%;
+    float:left;
     margin-left: 2%;
-    padding-left: 20%;
+    padding-left: 40%;
+}
+.chat-area img{
+    width: 10%;
+    float:left;
 }
